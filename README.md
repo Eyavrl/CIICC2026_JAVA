@@ -1,18 +1,15 @@
 # Bhea Avrille
 
-### TVL Computer Programming Student | Tech Leader | Aspiring Software Engineer
+### TVL Computer Programming Student | Tech Leader | Java Programmer
 
 As a graduate of TVL Computer Programming Strand who decided to further specialize through TESDA's Java Programming program, I concentrate on bridging the gap between reliable frontend and backend software. In addition to developing my knowledge of Java architecture, OOP principles, and database integration, I have real-world experience creating automated systems (such as RFID and biometric tracking). Ready to contribute as a junior developer to an engineering team, bring structured coding skills, and quickly adjust to production environments.
 
-### Tech Stack & Skills
-
-| Category | Technologies / Skills |
+| Category | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | Java, PHP, JavaScript, C++ |
-| **Web Development** | HTML5, CSS3, Full-stack web applications |
-| **Robotics & IoT** | Arduino, RFID Systems (RC522), Biometric Modules, Hardware Integration |
-| **Soft Skills** | Team Leadership, Professional Communication, Agile Collaboration |
-
+| **Programming Languages** | Java, PHP, C, C++ |
+| **Web Development** | HTML5, CSS3 |
+| **Database Management** | MySQL |
+| **Tools & Platforms** | VS Code, IntelliJ IDEA, Sublime Text, Arduino IDE |
 ---
 
 ### Featured Projects
@@ -22,8 +19,8 @@ As a graduate of TVL Computer Programming Strand who decided to further speciali
 *   **Tech Stack:** Java, RFID (RC522) modules, Biometric sensors, Database Management.
 *   **Impact:** Streamlined student tracking and eliminated manual data entry errors.
 
-#### **Internet Influence & Teenage Maturity Research**
-*   **Description:** A mixed-methods research study analyzing the impact of social propaganda on junior high school students in Manila.
+#### **ACCEPTABILITY AND UTILITY OF EMILIAN CARE: A PROPOSED DISASTER AID WEBSITE EVALUATED BY GRADE 12 PROGRAMMING AND ROBOTICS STUDENTS IN A SELECTED PRIVATE SCHOOL IN TAFT Research**
+*   **Description:** A quantitative research study examined how Grade 12 Programming and Robotics students at Emilio Aguinaldo College, Manila evaluate the acceptability and usability of Emilian Care, an online disaster aid request platform
 *   **Tools Used:** SPSS (for calculating composite scores and Pearson's $r$ correlations).
 
 ---
@@ -52,4 +49,4 @@ As a graduate of TVL Computer Programming Strand who decided to further speciali
 *   **Email:** bheaavrille@email.com
 *   **Portfolio:** [bheaavrilleportfolio.com](https://bheaavrillefolio.com)
 
-⚡ *“Building the future, one line of code and one circuit at a time.”*
+ 💜 *“Building the future, one line of code and one circuit at a time.”*  💜
